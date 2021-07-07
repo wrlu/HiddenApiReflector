@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.android.content;
+package com.wrlus.hiddenapi.android.content;
 
 import android.content.ContentValues;
 import android.net.Uri;

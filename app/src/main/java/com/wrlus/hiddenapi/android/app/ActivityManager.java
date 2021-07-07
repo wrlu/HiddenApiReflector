@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.android.app;
+package com.wrlus.hiddenapi.android.app;
 
 import java.lang.reflect.Method;
 

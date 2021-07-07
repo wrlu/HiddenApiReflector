@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.android.bluetooth;
+package com.wrlus.hiddenapi.android.bluetooth;
 
 import android.Manifest;
 import android.bluetooth.BluetoothSocket;

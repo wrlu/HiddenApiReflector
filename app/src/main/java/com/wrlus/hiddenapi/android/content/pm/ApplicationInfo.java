@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.android.content.pm;
+package com.wrlus.hiddenapi.android.content.pm;
 
 import android.annotation.SuppressLint;
 

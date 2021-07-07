@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.dalvik.system;
+package com.wrlus.hiddenapi.dalvik.system;
 
 import java.io.File;
 import java.lang.reflect.Constructor;

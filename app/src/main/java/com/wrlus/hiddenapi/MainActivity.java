@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector;
+package com.wrlus.hiddenapi;
 
 import androidx.appcompat.app.AppCompatActivity;
 

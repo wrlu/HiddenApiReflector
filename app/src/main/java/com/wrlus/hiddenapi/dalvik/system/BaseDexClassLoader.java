@@ -1,4 +1,4 @@
-package com.wrlus.hiddenapireflector.dalvik.system;
+package com.wrlus.hiddenapi.dalvik.system;
 
 import java.lang.reflect.Field;
 
